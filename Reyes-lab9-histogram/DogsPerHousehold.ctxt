@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DogsPerHousehold
+comment0.text=\r\n\ Data\ on\ number\ of\ dogs\ per\ household\ in\ a\ random\ neighborhood\r\n\r\n\ @author\ Sharayah\ Reyes\r\n\ @version\ 2019.08.2019\r\n
+comment1.params=
+comment1.target=DogsPerHousehold()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ DogsPerHousehold\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ getNumberOfDogs()
+comment2.text=\r\n\ @\ return\ the\ number\ of\ dogs\ data\r\n
+comment3.params=
+comment3.target=void\ dogData()
+comment3.text=\r\n\ Add\ dog\ data\ to\ numberOfDogs\ array\ list\r\n
+numComments=4
